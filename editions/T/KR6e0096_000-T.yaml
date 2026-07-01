@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6e0096/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 華嚴關脈義記
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T45/T45n1879b.xml
+    old_id: T45n1879b
+hash: sha256:ea549c4ceeaf39d55eeff2018675bf7d1a5cd5ea5faea8f442e501c4b6a07972
