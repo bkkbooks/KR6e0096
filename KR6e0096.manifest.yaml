@@ -25,9 +25,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6e0096_000.yaml, hash: 'sha256:ea549c4ceeaf39d55eeff2018675bf7d1a5cd5ea5faea8f442e501c4b6a07972'}
-  - {seq: 1, filename: KR6e0096_001.yaml, hash: 'sha256:1813920b3166809c940b11afac3ea08b1069fb965ad25b580be221efa617e6a8'}
+  - {seq: 1, filename: KR6e0096_001.yaml, hash: 'sha256:d554bd3f9a1ff96d5ecdf252ea9b8039c3073d9e34cb8d9c8b2d49acbc35c31e'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6e0096_001.markers.yaml, hash: 'sha256:4e5704f64f6f1541a22ad4e095d415734de54efc9c525dbe0b2827734466713c'}
+  - {seq: 0, role: markers, filename: assets/KR6e0096_000.markers.yaml, hash: 'sha256:9401d5426dc3fea0ce39a5d8eae8d629cc6bdcc7eb28214d9bb6617a433cd997'}
+  - {seq: 1, role: markers, filename: assets/KR6e0096_001.markers.yaml, hash: 'sha256:12986754b59f8c66f84bc102c42b606e41459c87b73a208451beb35a8825b128'}
 table_of_contents:
 - ref:
     seq: 1
@@ -39,7 +40,4 @@ table_of_contents:
   label: 華嚴關脈義記
   type: juan
   level: 1
-hash: sha256:9a904f572d557b175260933146edeba51d421bd908af77ea2b74b7a9f6f9df53
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:b90123ad620410e7a094eabce85e493eefa94d26850d87a1bf0b53a86c296713
